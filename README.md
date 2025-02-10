@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Smilingiris2
-- 👀 I’m interested in coding and programming and creating apps.
-- 🌱 I’m currently learning how to make apps.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in coding and programming and creating apps,
+- 💞️ I’m looking to collaborate on app development programs.
 - 📫 How to reach me ,YOU CAN EMAIL ME ON MY GMAIL ACCOUNT:smilinggraceglo@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love charles babbage
